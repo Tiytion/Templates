@@ -1,5 +1,24 @@
 {
   "name": "bot-server.json | By Binary Bit Lab",
+  "invite": "dsc.gg/binarybitlab",
+  "roles": [
+    {
+      "name": "Moderator",
+      "perms": "mod"
+    },
+    {
+      "name": "Admin",
+      "perms": "admin"
+    },
+    {
+      "name": "Owner",
+      "perms": "admin"
+    },
+    {
+      "name": "Members",
+      "perms": "default"
+    }
+  ],
   "channels": [
     {
       "name": "dsc.gg/binarybitlab",
@@ -21,13 +40,13 @@
     },
     {
       "name": "welcome",
-      "type": "text", 
+      "type": "text",
       "perms": "bots"
     },
     {
       "name": "bots",
       "type": "text"
     }
-   
   ]
 }
+
