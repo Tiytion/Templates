@@ -1,0 +1,33 @@
+{
+  "name": "bot-server.json | By Binary Bit Lab",
+  "channels": [
+    {
+      "name": "dsc.gg/binarybitlab",
+      "type": "voice"
+    },
+    {
+      "name": "staff",
+      "type": "text",
+      "perms": "mod"
+    },
+    {
+      "name": "general",
+      "type": "text"
+    },
+    {
+      "name": "announcements",
+      "type": "text",
+      "perms": "admin"
+    },
+    {
+      "name": "welcome",
+      "type": "text", 
+      "perms": "bots"
+    },
+    {
+      "name": "bots",
+      "type": "text"
+    }
+    // Add more channels as needed
+  ]
+}
